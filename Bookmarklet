@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Bookmarklet</title>
-</head>
-<body>
-  <a href="javascript:(function(){function e(e){var n=document.querySelector(e);n&&(n.style.display='none')}e('ytd-browse');e('ytd-watch-next-secondary-results-renderer');setInterval(function(){e('ytd-watch-next-secondary-results-renderer')},1000);})();">I Don't UseThe Feed</a>
-</body>
-</html>
